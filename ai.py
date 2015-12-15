@@ -64,7 +64,7 @@ def make_move(board_obj):
 		return True
 	check2_result = check_for_winning_move(board_obj, human_symbol)
 	if check2_result['winning_move_present'] is True:
-		print "Player's winning move blocked!"
+		#print "Player's winning move blocked!"
 		board_obj.make_entry(check2_result['index'], ai_symbol)
 		return False
 	# check for corner places
