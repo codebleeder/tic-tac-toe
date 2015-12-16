@@ -1,6 +1,12 @@
 #Tic-Tac-Toe
 A simple game of Tic-Tac-Toe on the terminal. 
 
+##Requirement
+python 2.7
+
+##To run code
+```python app.py```
+
 ##Files description:
 * app.py: main application file
 * board.py: contains the game board class with supported functions
