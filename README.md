@@ -44,3 +44,7 @@ This is the main function, which instantiates the board class, and runs the game
 2. Virtualenv
 3. grip: To preview markdown files in local browser
 4. pep8: To check coding style
+
+##Changes:
+1. pip install nose
+2. nosetests <filename.py>
