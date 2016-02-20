@@ -47,4 +47,4 @@ This is the main function, which instantiates the board class, and runs the game
 
 ##Changes:
 1. pip install nose
-2. nosetests <filename.py>
+2. nosetests <filename.py> -vs
